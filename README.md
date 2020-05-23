@@ -1,2 +1,2 @@
 # alibool.github.io
-blog
+my personal blog
